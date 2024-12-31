@@ -82,7 +82,8 @@ endmodule
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-![WhatsApp Image 2024-12-17 at 13 25 27_4e9a7b73](https://github.com/user-attachments/assets/11223f7d-9e6c-4098-9709-426c624580b8)
+![image](https://github.com/user-attachments/assets/a94794f7-0c56-4ca8-bd7d-704335efed32)
+
 
 **RESULTS**
 Thus the program executed succesfully.
